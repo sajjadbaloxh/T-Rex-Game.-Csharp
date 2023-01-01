@@ -21,3 +21,15 @@ E:\IMRAN WORKS\SEMESTERS\techlift course\running game\extranewrun\runnergame\run
 E:\IMRAN WORKS\SEMESTERS\techlift course\running game\extranewrun\runnergame\runnergame\obj\Debug\runnergame.exe
 E:\IMRAN WORKS\SEMESTERS\techlift course\running game\extranewrun\runnergame\runnergame\obj\Debug\runnergame.pdb
 E:\IMRAN WORKS\SEMESTERS\techlift course\running game\extranewrun\runnergame\runnergame\obj\Debug\runnergame.Form2.resources
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\bin\Debug\runnergame.exe.config
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\bin\Debug\runnergame.exe
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\bin\Debug\runnergame.pdb
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.csproj.AssemblyReference.cache
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.csproj.SuggestedBindingRedirects.cache
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.Form1.resources
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.Form2.resources
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.Properties.Resources.resources
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.csproj.GenerateResource.cache
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.csproj.CoreCompileInputs.cache
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.exe
+Z:\MVC _dot_net\T-Rex-Game.-Csharp\T-Rex Game Csharp\runnergame\runnergame\obj\Debug\runnergame.pdb
